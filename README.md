@@ -1,1 +1,4 @@
-# jcds2602-group-5-nlp
+# Telecom User Sentiment Analysis: A Comparative Dataset of Positive and Negative Feedback
+by JCDS2602 - Group 5: Clarinda Puspitajati, Hans Darmawan, Ridha Shahnabiel Hayat
+
+The telecommunications industry faces challenges in maintaining customer satisfaction due to network instability, high service pricing, and unresponsive customer support. These issues contribute to negative brand perception and decreased customer loyalty. Three critical gaps are identified: Service Quality Gap: The promised network performance does not align with the actual user experience. Communication Gap: There is ineffective interaction between companies and customers. Value Perception Gap: Customers perceive that the service does not justify its cost. To address these issues, telecom providers must enhance network stability, implement customer-centric pricing models, and improve communication and responsiveness in customer service.
